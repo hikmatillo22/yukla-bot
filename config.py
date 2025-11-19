@@ -1,5 +1,5 @@
 # config.py - fill values before running
-TOKEN = "8574630329:AAEK775em3x9qCc3lwmFuNqaWysxxpLP8UQ"
+TOKEN = "8574630329:AAHb_1ExawqAoOSYMT2OimjHQ1H010-zqjE"
 OPENROUTER_KEY = "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"
 
 IMAGE_API = "https://img-gen.wwiw.uz/?prompt="
